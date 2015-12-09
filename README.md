@@ -15,6 +15,7 @@ Generate ssh key
    (only necessary with HTTPS, not with git site (git@github.com:gitbe/course.git)
 
 git remote -v: check user and git@github.com
+git remote set-url origin git@github.com:gitbe/course.git
 
 Add files
 ---------
