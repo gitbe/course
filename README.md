@@ -29,4 +29,7 @@ git status -s (short version of status)
     (1) staging area (A, M, AM, MM, ...)
     (2) working directory
 
-TEST
+git merge error
+---------------
+  fatal: No commit specified and merge.defaultToUpstream not set.
+    => git config merge.defaultToUpstream true
