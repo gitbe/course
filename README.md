@@ -29,3 +29,4 @@ git status -s (short version of status)
     (1) staging area (A, M, AM, MM, ...)
     (2) working directory
 
+TEST
