@@ -24,4 +24,6 @@ git add filename (git add .., git add ., git add *)
 Check difference
 ----------------
 git status -s (short version of status)
-
+  2 columns:
+    (1) staging area (A, M, AM, MM, ...)
+    (2) working directory
